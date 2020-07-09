@@ -10,7 +10,7 @@
 
 ## Olá 👋
 
-Meu nome é Jeferson Almeida, Engenheiro de Software, 33 anos.  
+Meu nome é Jeferson Almeida, Analista e Desenvolvedor de Sistemas, 33 anos.  
 Tenho interesse em escalabilidade, infraestrutura e melhores práticas. Desenvolver soluções é o meu combustível.
 
 - 🧑‍💼 Trabalhando como Engenheiro de Software na **Gestor Sistemas**.
