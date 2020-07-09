@@ -14,8 +14,8 @@ Meu nome é Jeferson Almeida, Engenheiro de Software, 33 anos.
 Tenho interesse em escalabilidade, infraestrutura e melhores práticas. Desenvolver soluções é o meu combustível.
 
 - 🧑‍💼 Trabalhando como Engenheiro de Software na **Gestor Sistemas**.
-- 💙 Techs: Angular, Vue, Laravel, Spring Boot, Quarkus, TypeScript e algumas outras ferramentas bacanas!
-- 📚 Estudando sobre Docker e AWS.
+- 💙 Techs: Angular, Vue, Laravel, Spring Boot, TypeScript e algumas outras ferramentas bacanas!
+- 📚 Estudando sobre Quarkus, Docker e AWS.
 - 😄 Apelidos: Maninho, Jack.
 - ⚡ Fato interessante: Existe algo no código fonte que me acalma.
 
