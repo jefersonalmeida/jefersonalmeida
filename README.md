@@ -10,7 +10,7 @@
 
 ## Olá 👋
 
-Meu nome é Jeferson Almeida, desenvolvedor "full cycle".  
+Meu nome é Jeferson Almeida, Engenheiro de Software, 33 anos.  
 Tenho interesse em escalabilidade, infraestrutura e melhores práticas. Desenvolver soluções é o meu combustível.
 
 - 🧑‍💼 Trabalhando como engenheiro de software **Gestor Sistemas**.
