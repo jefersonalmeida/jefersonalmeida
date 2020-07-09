@@ -11,7 +11,7 @@
 ## Olá 👋
 
 Meu nome é Jeferson Almeida, desenvolvedor "full cycle".  
-Tenho interesse em escalabilidade, infraestrutura, melhores práticas e desenvolver soluções é o meu combustível.
+Tenho interesse em escalabilidade, infraestrutura e melhores práticas. Desenvolver soluções é o meu combustível.
 
 - 🧑‍💼 Trabalhando como engenheiro de software **Gestor Sistemas**.
 - 💙 Techs: Angular, Vue, Laravel, Spring Boot, Quarkus, TypeScript e algumas outras ferramentas bacanas!
