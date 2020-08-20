@@ -1,24 +1,20 @@
 # Jeferson Almeida :man_technologist:
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jefersonalmeida)](https://github.com/jefersonalmeida)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefersonalmeida/)](https://www.linkedin.com/in/jefersonalmeida/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/171490/jeferson-de-almeida)](https://pt.stackoverflow.com/users/171490/jeferson-de-almeida)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/____jeferson)](https://twitter.com/____jeferson)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565999695873&text=Olá!)](https://api.whatsapp.com/send?phone=5565999695873&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/almeida.jeferson)](https://t.me/almeida.jeferson)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:me@jeferson.net.br)](mailto:me@jeferson.net.br)
+[![Views Badge](http://views.whatilearened.today/views/github/jefersonalmeida/views.svg)](https://github.com/jefersonalmeida)
+[![Angular Badge](https://img.shields.io/badge/FrontEnd-ANGULAR-red)](https://github.com/jefersonalmeida)
+[![PHP Badge](https://img.shields.io/badge/BackEnd-PHP-blue)](https://github.com/jefersonalmeida)
+[![PHP Badge](https://img.shields.io/badge/BackEnd-NODE-brightgreen)](https://github.com/jefersonalmeida)
+[![Java Badge](https://img.shields.io/badge/BackEnd-JAVA-red)](https://github.com/jefersonalmeida)
+[![Followers Badge](https://img.shields.io/github/followers/jefersonalmeida?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/jefersonalmeida)
+[![OpenSource Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jefersonalmeida?tab=repositories)
 
-## Olá 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jefersonalmeida&show_icons=true)
 
-Meu nome é Jeferson Almeida, Analista e Desenvolvedor de Sistemas, 33 anos.  
-Tenho interesse em escalabilidade, infraestrutura e melhores práticas. Desenvolver soluções é o meu combustível.
-
-- 🧑‍💼 Trabalhando como Engenheiro de Software na **Gestor Sistemas**.
-- 💙 Techs: Angular, Vue, Laravel, Spring Boot, TypeScript e algumas outras ferramentas bacanas!
-- 📚 Estudando sobre Quarkus, Docker e AWS.
-- 😄 Apelidos: Maninho, Jack.
-- ⚡ Fato interessante: Existe algo no código fonte que me acalma.
-
-> 🚀 [jeferson.net.br](https://jeferson.net.br)
-
----
+[![Site Badge](https://img.shields.io/badge/-Site-blue?logo=Wordpress)](https://jeferson.net.br)
+[![Github Badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white)](https://github.com/jefersonalmeida)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jefersonalmeida/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?logo=Stackoverflow&logoColor=white)](https://pt.stackoverflow.com/users/171490/jeferson-de-almeida)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/____jeferson)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?labelColor=4CA143&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5565999695873&text=Olá!)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/almeida.jeferson)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?logo=Gmail&logoColor=white)](mailto:me@jeferson.net.br)
