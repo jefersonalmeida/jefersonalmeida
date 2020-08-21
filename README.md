@@ -1,10 +1,10 @@
 # Jeferson Almeida :man_technologist:
 
 [![Views Badge](http://views.whatilearened.today/views/github/jefersonalmeida/views.svg)](https://github.com/jefersonalmeida)
-[![Angular Badge](https://img.shields.io/badge/FrontEnd-ANGULAR-red)](https://github.com/jefersonalmeida)
-[![PHP Badge](https://img.shields.io/badge/BackEnd-PHP-blue)](https://github.com/jefersonalmeida)
+[![Angular Badge](https://img.shields.io/badge/FrontEnd-Angular-dd1b30)](https://github.com/jefersonalmeida)
+[![PHP Badge](https://img.shields.io/badge/BackEnd-PHP-4e5a93)](https://github.com/jefersonalmeida)
 [![Node Badge](https://img.shields.io/badge/BackEnd-Node-3e863d)](https://github.com/jefersonalmeida)
-[![Java Badge](https://img.shields.io/badge/BackEnd-Java-red)](https://github.com/jefersonalmeida)
+[![Java Badge](https://img.shields.io/badge/BackEnd-Java-ec2025)](https://github.com/jefersonalmeida)
 [![Followers Badge](https://img.shields.io/github/followers/jefersonalmeida?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/jefersonalmeida)
 [![OpenSource Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jefersonalmeida?tab=repositories)
 
