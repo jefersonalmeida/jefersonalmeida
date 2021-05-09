@@ -8,7 +8,7 @@
 [![Followers Badge](https://img.shields.io/github/followers/jefersonalmeida?color=%234CC61E&label=GitHub%20Followers%20%3A)](https://github.com/jefersonalmeida)
 [![OpenSource Badge](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/jefersonalmeida?tab=repositories)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jefersonalmeida&show_icons=true)
+
 
 [![Site Badge](https://img.shields.io/badge/-Site-blue?logo=Wordpress)](https://jeferson.net.br)
 [![Github Badge](https://img.shields.io/badge/-Github-black?logo=Github&logoColor=white)](https://github.com/jefersonalmeida)
