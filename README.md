@@ -13,6 +13,3 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-22272e?style=for-the-badge&logo=Stackoverflow&logoColor=4CA143&link=https://pt.stackoverflow.com/users/171490/jeferson-de-almeida)](https://pt.stackoverflow.com/users/171490/jeferson-de-almeida)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-22272e?style=for-the-badge&logo=whatsapp&logoColor=4CA143&link=https://api.whatsapp.com/send?phone=5565999695873&text=Olá!)](https://api.whatsapp.com/send?phone=5565999695873&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-22272e?style=for-the-badge&logo=telegram&logoColor=1ca0f1&link=https://t.me/almeida.jeferson)](https://t.me/almeida.jeferson)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jefersonalmeida&count_private=true&show_icons=true&theme=onedark)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jefersonalmeida&count_private=true&layout=compact&show_icons=true&theme=onedark)
