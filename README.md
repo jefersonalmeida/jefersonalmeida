@@ -7,10 +7,10 @@ class Person {
 }
 
 class Skills {
-    languages  = ['Java', 'TypeScript', 'JavaScript', 'PHP'];
+    languages  = ['Java', 'JavaScript', 'PHP', 'Go'];
     databases  = ['*SQL', 'MongoDB', 'Redis'];
-    frameworks = ['Spring', 'Quarkus', 'NestJS', 'Laravel', 'Angular', 'React'];
-    tools      = ['Docker', 'Kubernetes', 'RabbitMQ', 'ActiveMQ', 'Kafka'];
+    frameworks = ['Spring', 'Quarkus', 'NestJS', 'Laravel', 'Angular'];
+    tools      = ['Docker', 'Kubernetes', 'RabbitMQ', 'Kafka', 'Keycloak', 'Ansible', 'Terraform'];
     clouds     = ['AWS', 'GCP', 'Azure'];
 }
 
