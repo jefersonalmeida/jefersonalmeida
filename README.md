@@ -1,18 +1,24 @@
-```javascript
+```typescript
 class Person {
-    name       = 'Jeferson Almeida';
-    nickname   = 'jefersonalmeida';
-    title      = 'Software Engineer';
-    location   = 'Mato Grosso, Brazil';
+    name          = 'Jeferson Almeida';
+    username      = 'jefersonalmeida';
+    title         = 'Software Engineer';
+    location      = 'Mato Grosso, Brazil';
+    languages     = ['Portuguese (native)', 'English (basic)'];
 }
 
 class Skills {
-    languages  = ['Java', 'JavaScript', 'PHP', 'Go'];
-    databases  = ['*SQL', 'MongoDB', 'Redis'];
-    frameworks = ['Spring', 'Quarkus', 'NestJS', 'Laravel', 'Angular'];
-    tools      = ['Docker', 'Kubernetes', 'RabbitMQ', 'Kafka', 'Keycloak', 'Ansible', 'Terraform'];
-    clouds     = ['AWS', 'GCP', 'Azure'];
+    programming   = ['Java', 'TypeScript', 'PHP', 'Go'];
+    databases     = ['SQL', 'MongoDB', 'Redis'];
+    frameworks    = ['Spring', 'Quarkus', 'NestJS', 'Laravel', 'Angular', 'React'];
+    devops        = ['Docker', 'Kubernetes', 'Argo CD', 'Ansible', 'Terraform', 'GitHub Actions'];
+    messaging     = ['RabbitMQ', 'Kafka'];
+    security      = ['Keycloak', 'OAuth2', 'JWT'];
+    monitoring    = ['Prometheus', 'Grafana', 'Promtail', 'Loki'];
+    cloud         = ['AWS', 'GCP', 'Azure', 'Private'];
+    methodologies = ['Scrum', 'Kanban'];
+    testing       = ['JUnit', 'Mockito', 'Cypress'];
 }
 
-const me = Object.assign(new Person, new Skills);
+const me = {...new Person, ...new Skills};
 ```
